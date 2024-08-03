@@ -1,2 +1,2 @@
-# Professional-C-
+# Professional C++
 Path to professional C++
