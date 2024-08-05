@@ -37,7 +37,8 @@ int main() {
     myClass.printValue();
     myClass2.printValue();
 
-    myClass.foo();
+    // not allowed
+    // myClass.foo(); 
 
     return 0;
 }
