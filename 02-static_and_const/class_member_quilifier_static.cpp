@@ -8,7 +8,7 @@ public:
     }
 };
 
-// int StaticExample::sharedValue = 100;
+int StaticExample::sharedValue = 100;
 
 int main() {
     // if not initialize static class member value explicitly, compile error
